@@ -1,0 +1,30 @@
+{
+"firstNames": {
+"male": [
+{ "name": "Ananth", "meaning": "infinite, endless" },
+{ "name": "Ashok", "meaning": "without sorrow" },
+{ "name": "Ashwin", "meaning": "possessed of horses" },
+{ "name": "Bala", "meaning": "young, child" },
+{ "name": "Raman", "meaning": "variant of rama" },
+{ "name": "Kalyana", "meaning": "beautiful, lovely, auspicious"},
+{ "name": "Jagdisha", "meaning": "ruler of the world" },
+{ "name": "Narasimha", "meaning": "man lion" },
+{ "name": "Lakshmi", "meaning": "sign or mark" },
+{ "name": "Madhava", "meaning": "sweet, vernal, of the springtime" }
+],
+"female": [
+{ "name": "Chandra", "meaning": "moon" },
+{ "name": "Harisha", "meaning": "prosperity, wealth" },
+{ "name": "Divya", "meaning": "divine and heavenly" },      
+{ "name": "Lavanya", "meaning": "beauty, loveliness, charm" },
+{ "name": "Manju", "meaning": "lovely, beautiful" },
+{ "name": "Nilima", "meaning": "dark blue" },
+{ "name": "Ratna", "meaning": "jewel treasure" },
+{ "name": "Samira", "meaning": "wind or air" },
+{ "name": "Satyavati", "meaning": "truthful" },
+{ "name": "Sridevi", "meaning": "goddess" }
+]
+},
+"surnames": ["Akkineni","Allu","Chaganti","Gadde","Annam","Annala","Naidu","Jandyala","Bandaru","Bhatla",
+"Kunduru","Duvvuri","Murthy","Mannava","Tikka","Sunkara", "Puspati","Pemmaraju","Raavi","Saila"]
+}

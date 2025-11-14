@@ -1,0 +1,30 @@
+{
+"firstNames": {
+"male": [
+{ "name": "Aritra", "meaning": "charioteer" },
+{ "name": "Anirban", "meaning": "unextinguished flame" },
+{ "name": "Soham", "meaning": "I am He" },
+{ "name": "Arjun", "meaning": "bright, white" },
+{ "name": "Sayan", "meaning": "evening; rest" },
+{ "name": "Aparajita", "meaning": "unconquered"},
+{ "name": "Arijit", "meaning": "defeating enemies" },
+{ "name": "Debdas", "meaning": "devadas" },
+{ "name": "Enam", "meaning": "gift or blessing" },
+{ "name": "Gobinda", "meaning": "govinda" }
+],
+"female": [
+{ "name": "Jhinuk", "meaning": "seashell" },
+{ "name": "Mrittika", "meaning": "earth; soil" },
+{ "name": "Laboni", "meaning": "grace; beauty" },
+{ "name": "Riya", "meaning": "singer" },
+{ "name": "Ishika", "meaning": "paintbrush; sacred" },
+{ "name": "Ananda", "meaning": "bliss" },
+{ "name": "Anupam", "meaning": "incomparable" },
+{ "name": "Jannat", "meaning": "paradise, garden" },
+{ "name": "Fahmida", "meaning": "bliss" },
+{ "name": "Amrita", "meaning": "feminine amrit" }
+]
+},
+"surnames": ["Chatterjee", "Mukherjee", "Banerjee", "Ghosh", "Das", "Roy","Gupta", "Sen", "Sarkar", "De", 
+"Kar", "Datta", "Basu", "Ganguly", "Lahiri", "Chandra", "Bose","Debnath", "Dhar", "Goswami"]
+}

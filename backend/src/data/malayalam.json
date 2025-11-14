@@ -1,0 +1,30 @@
+{
+"firstNames": {
+"male": [
+{ "name": "Abhilash", "meaning": "desire or wish" },
+{ "name": "Akhil", "meaning": "complete" },
+{ "name": "Varghese", "meaning": "short form of geevarghese" },
+{ "name": "Santosh", "meaning": "satisfaction, contentment" },
+{ "name": "Raman", "meaning": "variant of rama" },
+{ "name": "Nithin", "meaning": "southern version of nitin"},
+{ "name": "Gopinath", "meaning": "leader of the gopis" },
+{ "name": "Abhishek", "meaning": "anointing" },
+{ "name": "Ajay", "meaning": "victory" },
+{ "name": "Bharath", "meaning": "being maintained" }
+],
+"female": [
+{ "name": "Jyothi", "meaning": "light" },
+{ "name": "Aishwarya", "meaning": "prosperity, wealth" },
+{ "name": "Akhila", "meaning": "whole or complete" },      
+{ "name": "Amala", "meaning": "clean, pure" },
+{ "name": "Anjali", "meaning": "salutation" },
+{ "name": "Priya", "meaning": "beloved" },
+{ "name": "Karthika", "meaning": "constellation of the Pleiades" },
+{ "name": "Madhu", "meaning": "honey, or sweet" },
+{ "name": "Shanthi", "meaning": "quiet, peace, tranquility" },
+{ "name": "Lalitha", "meaning": "playful, charming, desirable" }
+]
+},
+"surnames": ["Manoj","Menon","Nayanar","Swaroopam","Channar","Shannar","Varma","Kurup","Plavara","George",
+"Potti","Vaidyar","Nadar","Shenoy","Achari","Nair","Koya","Thandan","Pillai","Krishnan","Adithyan"]
+}

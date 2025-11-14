@@ -1,0 +1,34 @@
+{
+"firstNames": {
+"male": [
+{ "name": "Gurpreet", "meaning": "lover of the Guru" },
+{ "name": "Harman", "meaning": "everyone's heart" },
+{ "name": "Arshdeep", "meaning": "heavenly lamp" },
+{ "name": "Manjot", "meaning": "light of the mind" },
+{ "name": "Harjit", "meaning": "victory of God" },
+{ "name": "Tintu", "meaning": "small and fiesty" },
+{ "name": "Bintu", "meaning": "big and ferocious" },
+{ "name": "Arun", "meaning": "masculine aruna" },
+{ "name": "Asees", "meaning": "blessing" },
+{ "name": "Navroj", "meaning": "new days" },
+{ "name": "Shiv", "meaning": "northern indian shiva" },
+{ "name": "Tarun", "meaning": "young and fresh" },
+{ "name": "Karan", "meaning": "wide" },
+{ "name": "Globnoor", "meaning": "full of life" },
+{ "name": "Jasman", "meaning": "gift from god" }
+],
+"female": [
+{ "name": "Jasleen", "meaning": "absorbed in singing praise" },
+{ "name": "Gurleen", "meaning": "absorbed in the Guru" },
+{ "name": "Harsimran", "meaning": "remembering God" },
+{ "name": "Navjot", "meaning": "new light" },
+{ "name": "Manpreet", "meaning": "love of the mind" },
+{ "name": "Kiran", "meaning": "sunbeam" },
+{ "name": "Naveet", "meaning": "new and fresh"},
+{ "name": "Simran", "meaning": "continous remembrance" },
+{ "name": "Navneet", "meaning": "eternal" },
+{ "name": "Harleen", "meaning": "devoted to god" }
+]
+},
+"surnames": ["Singh", "Kaur", "Sidhu", "Sandhu", "Dhillon", "Gill", "Brar","Dhami","Bajwa","Bhatia","Kapoor","Malhotra","Cheema","Randhawa","Sharma","Chadha","Grewal","Mehra","Bedi","Deol"]
+}

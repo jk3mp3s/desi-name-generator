@@ -1,0 +1,33 @@
+{
+"firstNames": {
+"male": [
+{ "name": "Parth", "meaning": "Arjuna; son of Pritha" },
+{ "name": "Jay", "meaning": "victory" },
+{ "name": "Harsh", "meaning": "joy" },
+{ "name": "Vivek", "meaning": "discernment" },
+{ "name": "Dhruv", "meaning": "steadfast; pole star" },
+{ "name": "Chirag", "meaning": "lamp light"},
+{ "name": "Om", "meaning": "peace"},
+{ "name": "Dhaval", "meaning": "dazzling white" },
+{ "name": "Nishan", "meaning": "mark or emblem" },
+{ "name": "Nirav", "meaning": "quiet" },
+{ "name": "Raj", "meaning": "royalty" },
+{ "name": "Gurage", "meaning": "spacious" }
+],
+"female": [
+{ "name": "Dhara", "meaning": "earth; stream" },
+{ "name": "Asha", "meaning": "hope" },
+{ "name": "Janki", "meaning": "Sita" },
+{ "name": "Krupa", "meaning": "grace" },
+{ "name": "Heena", "meaning": "mehndi; fragrance" },
+{ "name": "Priti", "meaning": "joy" },
+{ "name": "Avani", "meaning": "earth" },
+{ "name": "Shweta", "meaning": "white" },
+{ "name": "Prachi", "meaning": "ancient" },
+{ "name": "Urvi", "meaning": "wide" },
+{ "name": "Rachana", "meaning": "creation" },
+{ "name": "Tanvi", "meaning": "slender woman" }
+]
+},
+"surnames": ["Patel", "Shah", "Mehta", "Desai", "Thakkar", "Bhatt","Modi","Joshi","Acharya", "Jani","Chaudhari","Chowdhury","Bhuva","Barot","Dave","Jain","Parekh","Rubberwala","Shroff","Kapadia"]
+}
