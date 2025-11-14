@@ -27,7 +27,9 @@
 { "name": "Naveet", "meaning": "new and fresh"},
 { "name": "Simran", "meaning": "continous remembrance" },
 { "name": "Navneet", "meaning": "eternal" },
-{ "name": "Harleen", "meaning": "devoted to god" }
+{ "name": "Harleen", "meaning": "devoted to god" },
+{ "name": "Avleen", "meaning": "blessed by god" },
+{ "name": "Namgeet", "meaning": "spiritual song" }
 ]
 },
 "surnames": ["Singh", "Kaur", "Sidhu", "Sandhu", "Dhillon", "Gill", "Brar","Dhami","Bajwa","Bhatia","Kapoor","Malhotra","Cheema","Randhawa","Sharma","Chadha","Grewal","Mehra","Bedi","Deol"]
