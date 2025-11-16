@@ -17,7 +17,7 @@ return (
 >
 <header style={{ padding: '24px' }}>
 <div style={{ maxWidth: 960, margin: '0 auto', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-<h1 style={{ margin: 0, fontWeight: 800, fontSize: '42px' }}>Desi Name Generator</h1>
+<h1 style={{ margin: 0, fontWeight: 800, fontSize: '42px' }}>Indian Name Generator</h1>
 
 </div>
 
